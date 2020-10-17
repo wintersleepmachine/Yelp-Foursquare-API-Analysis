@@ -6,4 +6,5 @@
 
 
 ## Preview
-![Histogram of yelp vs foursquare api results](https://raw.githubusercontent.com/wintersleepmachine/Yelp-Foursquare-API-Analysis/master/yelpfoursquare.png)
+![top5cities rated food](https://raw.githubusercontent.com/wintersleepmachine/Yelp-Foursquare-API-Analysis/master/top5%20cities.png)
+![top 5 resturnats](https://raw.githubusercontent.com/wintersleepmachine/Yelp-Foursquare-API-Analysis/master/top5%20resturants.png)
